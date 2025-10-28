@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Hazel Ratna
+---
 
-<!--
-**hazelr125/hazelr125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student. 
+I’m passionate about building software that makes life easier, with a strong interest in **AI/ML** and **backend development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy finding creative, real-world solutions—drawing inspiration from my experiences in music and athletics.
+
+---
+
+## 💡 What I Do
+
+- **Languages:** Java, Python, C
+- **Databases:** MySQL
+- **Frameworks & Tools:** Spring Boot, REST APIs, Git, VS Code, SQL
+- **Core Interests:** AI/ML, backend engineering, automation
+
+---
+
+## 🎻 Outside Tech
+
+- Learning German 🇩🇪
+- Music 🎶
+- Athletics 🏃‍♀️
+- Sketching ✏️
+
+---
+
+## 📬 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/hazel-ratna-7b96992a8)
+- Email: hazelratna125@gmail.com

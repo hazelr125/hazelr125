@@ -6,25 +6,16 @@
 I'm a Computer Engineering student. 
 I’m passionate about building software that makes life easier, with a strong interest in **AI/ML** and **backend development**.
 
-I enjoy finding creative, real-world solutions—drawing inspiration from my experiences in music and athletics.
+I enjoy finding creative, real-world solutions 
 
 ---
 
 ## 💡 What I Do
 
-- **Languages:** Java, Python, C
+- **Languages:** Java, Python
 - **Databases:** MySQL
 - **Frameworks & Tools:** Spring Boot, REST APIs, Git, VS Code, SQL
-- **Core Interests:** AI/ML, backend engineering, automation
-
----
-
-## 🎻 Outside Tech
-
-- Learning German 🇩🇪
-- Music 🎶
-- Athletics 🏃‍♀️
-- Sketching ✏️
+- **Core Interests:** AI/ML, backend development, automation
 
 ---
 

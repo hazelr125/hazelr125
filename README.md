@@ -1,5 +1,5 @@
 <h1 >Hi, I'm Hazel</h1>
-<h3 align="center">I'm a Computer Engineering student. I’m passionate about building software that makes life easier, with an interest in AI/ML and backend development.</h3>
+<h3 align="center">I'm a Computer Engineering student. I’m passionate about building software that makes life easier, with an interest in AI/ML, backend development and web security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazelr125&label=Profile%20views&color=0e75b6&style=flat" alt="hazelr125" /> </p>
 
